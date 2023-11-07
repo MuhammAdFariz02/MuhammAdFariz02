@@ -3,5 +3,5 @@
 
 **My Ayank Waifu :)**
 
-<p align="center"><img src="https://i.imgur.com/GtKx7c8.gif" width="800"></p>
+<p align="center"><img src="https://i.imgur.com/GtKx7c8.gif" width="400"></p>
 
