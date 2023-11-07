@@ -1,4 +1,4 @@
-<a><img src="https://www.codewars.com/users/MuhammAdFariz02/badges/large">
+<a href="https://www.codewars.com/dashboard"><img src="https://www.codewars.com/users/MuhammAdFariz02/badges/large">
 
 **MuhammAdFariz02/MuhammAdFariz02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
