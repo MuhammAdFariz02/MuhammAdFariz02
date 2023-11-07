@@ -1,6 +1,5 @@
-### Hi there 👋
-<p align="center"><a><img src="https://www.codewars.com/users/MuhammAdFariz02/badges/large" width="400" alt="Laravel Logo"></a></p>
-<!--
+<a><img src="https://www.codewars.com/users/MuhammAdFariz02/badges/large">
+
 **MuhammAdFariz02/MuhammAdFariz02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
